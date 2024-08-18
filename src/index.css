@@ -102,7 +102,7 @@ button {
 
 .cart-items {
   background: #f6f9fc;
-  height: auto;
+  min-height: 32rem;
 }
 
 .cart-items .cart-total {
