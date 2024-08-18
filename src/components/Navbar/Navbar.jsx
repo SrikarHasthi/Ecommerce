@@ -50,7 +50,7 @@ const NavBar = () => {
             </svg>
             <Link
               aria-label="Go to Cart Page"
-              to="/cart"
+              to="/marketplacex/cart"
               className="cart"
               data-num={cartList.length}
             >
@@ -81,7 +81,7 @@ const NavBar = () => {
               <Link
                 aria-label="Go to Home Page"
                 className="navbar-link"
-                to="/"
+                to="/marketplacex"
                 onClick={() => setExpand(false)}
               >
                 <span className="nav-link-label">Home</span>
@@ -92,7 +92,7 @@ const NavBar = () => {
               <Link
                 aria-label="Go to Shop Page"
                 className="navbar-link"
-                to="/shop"
+                to="/marketplacex/shop"
                 onClick={() => setExpand(false)}
               >
                 <span className="nav-link-label">Shop</span>
@@ -103,7 +103,7 @@ const NavBar = () => {
               <Link
                 aria-label="Go to Cart Page"
                 className="navbar-link"
-                to="/cart"
+                to="/marketplacex/cart"
                 onClick={() => setExpand(false)}
               >
                 <span className="nav-link-label">Cart</span>
@@ -124,7 +124,7 @@ const NavBar = () => {
               </svg>
               <Link
                 aria-label="Go to Cart Page"
-                to="/cart"
+                to="/marketplacex/cart"
                 className="cart"
                 data-num={cartList.length}
               >

@@ -27,10 +27,10 @@ function App() {
         />
         <NavBar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/shop" element={<Shop />} />
-          <Route path="/shop/:id" element={<Product />} />
-          <Route path="/cart" element={<Cart />} />
+          <Route path="/marketplacex" element={<Home />} />
+          <Route path="/marketplacex/shop" element={<Shop />} />
+          <Route path="/marketplacex/shop/:id" element={<Product />} />
+          <Route path="/marketplacex/cart" element={<Cart />} />
         </Routes>
         <Footer />
       </Router>
