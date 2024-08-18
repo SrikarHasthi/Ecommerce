@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/marketplacex/static/css/main.720cd7f9.css",
-    "main.js": "/marketplacex/static/js/main.40b2aef0.js",
+    "main.css": "/marketplacex/static/css/main.dac4c13e.css",
+    "main.js": "/marketplacex/static/js/main.c32b1546.js",
     "static/css/432.397d025a.chunk.css": "/marketplacex/static/css/432.397d025a.chunk.css",
     "static/js/432.38a91b44.chunk.js": "/marketplacex/static/js/432.38a91b44.chunk.js",
     "static/css/648.28ebc7c8.chunk.css": "/marketplacex/static/css/648.28ebc7c8.chunk.css",
@@ -44,8 +44,8 @@
     "static/media/slick.ttf": "/marketplacex/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/marketplacex/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/marketplacex/index.html",
-    "main.720cd7f9.css.map": "/marketplacex/static/css/main.720cd7f9.css.map",
-    "main.40b2aef0.js.map": "/marketplacex/static/js/main.40b2aef0.js.map",
+    "main.dac4c13e.css.map": "/marketplacex/static/css/main.dac4c13e.css.map",
+    "main.c32b1546.js.map": "/marketplacex/static/js/main.c32b1546.js.map",
     "432.397d025a.chunk.css.map": "/marketplacex/static/css/432.397d025a.chunk.css.map",
     "432.38a91b44.chunk.js.map": "/marketplacex/static/js/432.38a91b44.chunk.js.map",
     "648.28ebc7c8.chunk.css.map": "/marketplacex/static/css/648.28ebc7c8.chunk.css.map",
@@ -59,7 +59,7 @@
     "769.1273d57e.chunk.js.map": "/marketplacex/static/js/769.1273d57e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.720cd7f9.css",
-    "static/js/main.40b2aef0.js"
+    "static/css/main.dac4c13e.css",
+    "static/js/main.c32b1546.js"
   ]
 }
