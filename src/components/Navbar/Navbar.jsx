@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import "./navbar.css";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 const NavBar = () => {
+  const router = useNavigate();
   const { cartList } = useSelector((state) => state.cart);
   const [expand, setExpand] = useState(false);
   const [isFixed, setIsFixed] = useState(false);
@@ -29,7 +30,7 @@ const NavBar = () => {
       className={isFixed ? "navbar fixed" : "navbar"}
     >
       <Container className="navbar-container">
-        <Navbar.Brand to="/">
+        <Navbar.Brand onClick={()=>{router(`/marketplacex`)}}>
           <ion-icon name="bag"></ion-icon>
           <h1 className="logo">MarketPlaceX</h1>
         </Navbar.Brand>
