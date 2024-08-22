@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marketplacex/static/css/main.b8ec7260.css",
-    "main.js": "/marketplacex/static/js/main.ee99e7c2.js",
+    "main.js": "/marketplacex/static/js/main.e5aa3475.js",
     "static/css/432.36ab10bd.chunk.css": "/marketplacex/static/css/432.36ab10bd.chunk.css",
     "static/js/432.464c63b5.chunk.js": "/marketplacex/static/js/432.464c63b5.chunk.js",
     "static/css/648.d054d9ab.chunk.css": "/marketplacex/static/css/648.d054d9ab.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/787.723be057.chunk.js": "/marketplacex/static/js/787.723be057.chunk.js",
     "static/js/92.4cacb8ff.chunk.js": "/marketplacex/static/js/92.4cacb8ff.chunk.js",
     "static/js/113.b9afb9b2.chunk.js": "/marketplacex/static/js/113.b9afb9b2.chunk.js",
-    "static/js/769.8dd35be6.chunk.js": "/marketplacex/static/js/769.8dd35be6.chunk.js",
+    "static/js/769.b07982ed.chunk.js": "/marketplacex/static/js/769.b07982ed.chunk.js",
     "static/media/single-sofa-01.jpg": "/marketplacex/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
     "static/media/single-sofa-03.jpg": "/marketplacex/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
     "static/media/arm-chair-03.jpg": "/marketplacex/static/media/arm-chair-03.726a783a7751afc13d8e.jpg",
@@ -45,7 +45,7 @@
     "static/media/slick.woff": "/marketplacex/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/marketplacex/index.html",
     "main.b8ec7260.css.map": "/marketplacex/static/css/main.b8ec7260.css.map",
-    "main.ee99e7c2.js.map": "/marketplacex/static/js/main.ee99e7c2.js.map",
+    "main.e5aa3475.js.map": "/marketplacex/static/js/main.e5aa3475.js.map",
     "432.36ab10bd.chunk.css.map": "/marketplacex/static/css/432.36ab10bd.chunk.css.map",
     "432.464c63b5.chunk.js.map": "/marketplacex/static/js/432.464c63b5.chunk.js.map",
     "648.d054d9ab.chunk.css.map": "/marketplacex/static/css/648.d054d9ab.chunk.css.map",
@@ -56,10 +56,10 @@
     "787.723be057.chunk.js.map": "/marketplacex/static/js/787.723be057.chunk.js.map",
     "92.4cacb8ff.chunk.js.map": "/marketplacex/static/js/92.4cacb8ff.chunk.js.map",
     "113.b9afb9b2.chunk.js.map": "/marketplacex/static/js/113.b9afb9b2.chunk.js.map",
-    "769.8dd35be6.chunk.js.map": "/marketplacex/static/js/769.8dd35be6.chunk.js.map"
+    "769.b07982ed.chunk.js.map": "/marketplacex/static/js/769.b07982ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8ec7260.css",
-    "static/js/main.ee99e7c2.js"
+    "static/js/main.e5aa3475.js"
   ]
 }
