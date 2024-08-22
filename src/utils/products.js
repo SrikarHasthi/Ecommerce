@@ -35,54 +35,54 @@ import watchSlide from "../Images/watch-07.png";
 
 export const SliderData = [
   {
-      id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
-  },
-  {
-      id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
-  },
-  {
-      id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
-  },
-  {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
-  },
+    id: 1,
+    title: "50% Off Your First Purchase",
+    desc: "Transform your living space with 50% off your first furniture purchase. Limited time offer!",
+    cover: sofaSlide,
+},
+{
+    id: 2,
+    title: "50% Off Your First Purchase",
+    desc: "Get 50% off on your first smartphone purchase. Shop now and save big!",
+    cover: phone08,
+},
+{
+    id: 3,
+    title: "50% Off Your First Purchase",
+    desc: "Enjoy crystal-clear sound with 50% off your first wireless headphones. Offer ends soon!",
+    cover: wireless01,
+},
+{
+    id: 4,
+    title: "50% Off Your First Purchase",
+    desc: "Elevate your style with 50% off your first watch purchase. Limited stock available!",
+    cover: watchSlide,
+},
 ];
 
 export const serviceData = [
   {
     icon: <ion-icon name="car"></ion-icon>,
     title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Free delivery on all orders.",
     bg: "#fdefe6",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Secure checkout guaranteed.",
     bg: "#ceebe9",
   },
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Protected transactions every time.",
     bg: "#e2f2b2",
   },
   {
     icon: <ion-icon name="headset"></ion-icon>,
     title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Easy returns, guaranteed refund.",
     bg: "#d6e5fb",
   },
 ];
